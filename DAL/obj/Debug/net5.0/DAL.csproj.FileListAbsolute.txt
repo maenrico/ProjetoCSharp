@@ -1,0 +1,15 @@
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\bin\Debug\net5.0\Modelos.dll
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\bin\Debug\net5.0\Modelos.pdb
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Enrico\Downloads\DuasCamadas\RAONI QUE FEZ\DAL\obj\Debug\net5.0\DAL.pdb
